@@ -1,0 +1,22 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "s": "nodemon program.js"
+  },
+  "author": "srgrcp",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.8"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "connect-loki": "^1.1.0",
+    "express-session": "^1.15.6",
+    "js-sha1": "^0.6.0",
+    "uuid": "^3.3.2"
+  }
+}
